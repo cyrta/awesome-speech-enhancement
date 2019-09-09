@@ -46,6 +46,14 @@ The algorithms of speech enhancement for noise reduction can be categorized into
 
 ## Publications / Papers
 
+### 2019
+* [s]()
+
+### 2018
+
+* [s]()
+
+### 2018
 * [s]()
 
 ## Software
@@ -73,12 +81,20 @@ The algorithms of speech enhancement for noise reduction can be categorized into
 * [Microsoft Research, Audio and Acoustics Research Group](https://www.microsoft.com/en-us/research/group/audio-and-acoustics-research-group/)
 
 
-## Lectures
+## Learning materials
+### Lectures
 
 * [High-Accuracy Neural-Network Models for Speech Enhancement - 2017](https://www.microsoft.com/en-us/research/video/high-accuracy-neural-network-models-speech-enhancement/)
 * [ DNN-Based Online Speech Enhancement Using Multitask Learning and Suppression Rule Estimation - 2015](https://www.microsoft.com/en-us/research/video/dnn-based-online-speech-enhancement-using-multitask-learning-and-suppression-rule-estimation/)
 * [Microphone array signal processing: beyond the beamformer - 2011](https://www.microsoft.com/en-us/research/video/microphone-array-signal-processing-beyond-the-beamformer/)
 
+### Tech Blog posts
+- 
+### Video tutorials
+- 
+
+
+----
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
