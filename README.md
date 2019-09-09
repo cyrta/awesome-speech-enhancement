@@ -1,4 +1,4 @@
-🗣️  Awesome Speech Enhancement 🎙 🔊 🎤 📱💻   💬      	 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  <img src="https://i.imgur.com/AH4MxeB.png" width="125" align="right" alt="Speech Recognition Icon">
+#🗣️  Awesome Speech Enhancement 🎙 🔊 🎤 📱💻   💬      	 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  <img src="https://i.imgur.com/AH4MxeB.png" width="125" align="right" alt="Speech Recognition Icon">
 
 [Speech enhancement](https://en.wikipedia.org/wiki/Speech_enhancement) aims to improve speech quality by using various algorithms. The objective of enhancement is improvement in intelligibility and/or overall perceptual quality of degraded speech signal using audio signal processing techniques.
 
