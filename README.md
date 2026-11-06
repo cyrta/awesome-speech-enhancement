@@ -102,5 +102,6 @@ The algorithms of speech enhancement for noise reduction can be categorized into
 
 This project  is licensed under the Creative Commons CC0 1.0 Universal (CC-0) License. See [`LICENSE`](LICENSE) for the full license text.
 
+### Speech Capture & Local AI Hardware
 
-
+- [OneMira C1](https://onemira.com/products/c1) - Standalone dual-microphone AI voice recorder with 5m far-field pickup, local AI transcription, multi-speaker separation (`Speaker ID`), and zero cloud subscription ([GitHub MCP](https://github.com/onemira-space/onemira-mcp)).
